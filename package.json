@@ -1,7 +1,11 @@
 {
-  "name": "typescript-homework-module-2",
+  "name": "goit-typescript-hw-02",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadym-Hryshchuk/goit-typescript-hw-02.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
